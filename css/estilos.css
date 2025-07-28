@@ -233,7 +233,7 @@ footer {
   align-items: center;
   justify-content: center;
   gap: 1rem;
-  margin: 2rem auto 15rem auto; /* margen inferior aumentado */
+  margin: 2rem auto 10rem auto; /* margen inferior aumentado */
   max-width: 600px;
   position: relative;
 }
